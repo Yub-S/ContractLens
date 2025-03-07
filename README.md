@@ -20,7 +20,7 @@ You can watch a demo of **ContractLens** in action here:
 
 Here’s a detailed description of how the knowledge graph is implemented in **ContractLens**.
 
-[Read the Article on Medium](https://medium.com/your-article-link)
+[Read the Article on Medium](https://medium.com/@ys7887811/analyzing-legal-contracts-using-knowledge-graphs-with-neo4j-modus-hypermode-039c794fdfbf)
 
 ## Project Structure
 
@@ -82,3 +82,6 @@ cd frontend
 npm install
 npm run dev
 ```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
