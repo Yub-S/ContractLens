@@ -16,6 +16,12 @@ You can watch a demo of **ContractLens** in action here:
 
 [Watch the Demo](https://drive.google.com/file/d/1G9iux9vJGilEPM2Jc9KjWBefonAep4aF/view?usp=drive_link)
 
+## Knowledge Graph Implementation
+
+Here’s a detailed description of how the knowledge graph is implemented in **ContractLens**.
+
+[Read the Article on Medium](https://medium.com/your-article-link)
+
 ## Project Structure
 
 - **backend**: Built with [Modus](https://docs.hypermode.com/modus/overview), handles the backend operations
