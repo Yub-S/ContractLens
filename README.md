@@ -22,6 +22,8 @@ Here’s a detailed description of how the knowledge graph is implemented in **C
 
 [Read the Article on Medium](https://medium.com/@ys7887811/analyzing-legal-contracts-using-knowledge-graphs-with-neo4j-modus-hypermode-039c794fdfbf)
 
+**Note:** The knowledge graph creation process may take a few minutes (typically 3-5 minutes or more, depending on the length of the contract).
+
 ## Project Structure
 
 - **backend**: Built with [Modus](https://docs.hypermode.com/modus/overview), handles the backend operations
